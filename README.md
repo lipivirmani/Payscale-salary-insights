@@ -91,9 +91,6 @@ Open [Google Colab](https://colab.research.google.com/) and start a new notebook
 ### 3. **Running Scripts in Colab** 
 Run the scripts directly from Colab by using the correct paths to the project files stored in Google Drive.
 
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing 🤝
 

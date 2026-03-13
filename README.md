@@ -18,6 +18,8 @@ This project scrapes salary data for different college majors and analyzes it to
 - **gspread**: 📜 For uploading data to Google Sheets.
 - **Google Cloud API**: ☁️ For authenticating and connecting to Google Sheets using Service Account credentials.
 
+![Salary Growth Chart](top_growth_chart.png)
+
 ## How to Run the Project 🚀
 
 ### 1. **Clone the Repository** 
